@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Anctarus7105/Anctarus7105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on lua language.
 - 🌱 I’m currently learning lua language.
 - 👯 I’m looking to collaborate on Discord, Github, Pastebin, Replit.

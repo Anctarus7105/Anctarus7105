@@ -7,5 +7,5 @@
 - 💬 Ask me about help.
 - 📫 How to reach me: https://pastebin.com/u/Anctarus , https://github.com/Anctarus7105 , https://Replit.com/@Anctarus7105 .
 - 😄 Pronouns: Anctarus
-- ⚡ Fun fact: idk
+- ⚡ Fun fact: idk.
 -->

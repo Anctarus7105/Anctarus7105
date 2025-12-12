@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with mini lua scripts.
 - 💬 Ask me about help.
 - 📫 How to reach me: https://pastebin.com/u/Anctarus , https://github.com/Anctarus7105 , https://Replit.com/@Anctarus7105 .
-- 😄 Pronouns: Anctarus
+- 😄 Pronouns: Anctarus.
 - ⚡ Fun fact: idk.
 -->
